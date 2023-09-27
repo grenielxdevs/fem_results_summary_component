@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --light-red: hsl(0, 100%, 67%);
+    --orangey-yellow: hsl(39, 100%, 56%);
+    --green-teal: hsl(166, 100%, 37%);
+    --cobalt-blue: hsl(234, 85%, 45%);
+    --gradient-ls-blue-bg: hsl(252, 100%, 67%);
+    --gradient-lr-blue-bg: hsl(241, 81%, 54%);
+    --violet-blue-circle-: hsla(256, 72%, 46%, 1);
+    --persian-blue-circle: hsla(241, 72%, 46%, 0);
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+/* Card Style */
+.card {
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+}
+
+/* Result Styles */
+.result {
+    width: 300px;
+    
+}
+
+/* Summary Styles */
+.summary {
+    width: 300px;
+    
+}
