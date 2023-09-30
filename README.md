@@ -4,7 +4,7 @@
 
 ## Welcome To grenielxdevs 👋
 
-Thank you for checking out my frontend mentor challenge #1 Results Summary
+Thank you for checking out my frontend mentor challenge #2 Results Summary
 
 ## Want to Collaborate?
 
